@@ -35,6 +35,9 @@ a{
   text-decoration: none;
   font-size: 19px;
 }
+a:hover{
+  color: white;
+}
 .city{
   width: 75%;
 }
@@ -93,6 +96,10 @@ a{
   background-color: #ecfcff;
   margin: 0;
   padding-bottom: 40px;
+}
+.copyright{
+  color: white;
+  font-size: 13px;
 }
 .bottom-container{
   background-color: #12d3cf;
